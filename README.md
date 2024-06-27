@@ -23,7 +23,8 @@ The goal of this project is to develop a real-time dashboard that allows stakeho
 ## Project Files
 - **Data:** CSV files (`credit_card.csv` and `customer_details.csv`) containing raw data used in the project.
 - **SQL Scripts:** SQL scripts used to create tables in MySQL for data storage.
-- **Power BI Files:** Power BI file (`CreditCardDashboard.pbix`) containing the dashboard designs and data visualizations.
+- **Power BI Files:** Power BI file containing the dashboard designs and data visualizations.
+- **Project PDF Files**
 - **README:** This file provides an overview of the project, its objectives, and key features.
 
 
